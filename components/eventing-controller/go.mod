@@ -6,8 +6,8 @@ require (
 	github.com/avast/retry-go/v3 v3.1.1
 	github.com/cloudevents/sdk-go/protocol/nats/v2 v2.5.0
 	github.com/cloudevents/sdk-go/v2 v2.5.0
-	github.com/go-logr/logr v0.4.0
-	github.com/go-logr/zapr v0.4.0
+	github.com/go-logr/logr v1.2.2
+	github.com/go-logr/zapr v1.2.3
 	github.com/kelseyhightower/envconfig v1.4.0
 	github.com/kyma-incubator/api-gateway v0.0.0-20210909101151-ac45e9ce3553
 	github.com/kyma-project/kyma/common/logging v0.0.0-20211006112227-6d16a34ea468
@@ -20,7 +20,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.7.0
 	go.uber.org/atomic v1.7.0
-	go.uber.org/zap v1.18.1
+	go.uber.org/zap v1.19.0
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
 	k8s.io/api v0.22.0
